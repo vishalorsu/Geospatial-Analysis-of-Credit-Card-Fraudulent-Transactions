@@ -83,3 +83,6 @@ For general discussions or specific queries, initiate an email conversation with
 
 ## Acknowledgments
 - **Professor**: Lindi Liao Duoduo (dliao2@gmu.edu)
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
